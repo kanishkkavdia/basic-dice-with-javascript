@@ -1,0 +1,20 @@
+.container{
+  border:2px solid blue;
+  margin: 0 auto;
+}
+.container h1{
+  color:blue;
+  text-align: center;
+}
+
+.flex-box{
+  border: 1px solid black;
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-box img{
+
+}
